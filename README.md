@@ -53,39 +53,4 @@ Looping and validation
 Writing clean and structured code
 
 
----
 
-# 🧪 3. test_cases.txt
-
-```txt
-Test Case 1:
-Input: 95
-Output: Grade A
-
-Test Case 2:
-Input: 85
-Output: Grade B
-
-Test Case 3:
-Input: 75
-Output: Grade C
-
-Test Case 4:
-Input: 65
-Output: Grade D
-
-Test Case 5:
-Input: 50
-Output: Grade F
-
-Test Case 6:
-Input: 110
-Output: Invalid Input Message
-
-Test Case 7:
-Input: -5
-Output: Invalid Input Message
-
-Test Case 8:
-Input: abc
-Output: Error Handling Message
